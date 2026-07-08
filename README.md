@@ -95,7 +95,7 @@ Students who completed more assignments tended to obtain higher examination scor
 
 
 
-### ✅ Previous academic performance was associated with future performance.
+###  Previous academic performance was associated with future performance.
 
 Students with higher previous scores generally achieved higher examination scores.
 
@@ -103,7 +103,7 @@ Students with higher previous scores generally achieved higher examination score
 
 
 
-### ✅ Attendance had a positive relationship with examination scores.
+###  Attendance had a positive relationship with examination scores.
 
 Although weaker than study hours, students with better attendance generally performed better academically.
 
@@ -111,7 +111,7 @@ Although weaker than study hours, students with better attendance generally perf
 
 
 
-### ✅ Internet usage showed a weak negative relationship.
+###  Internet usage showed a weak negative relationship.
 
 Higher internet usage was slightly associated with lower examination scores.
 
@@ -119,7 +119,7 @@ Higher internet usage was slightly associated with lower examination scores.
 
 
 
-### ✅ Successfully placed students demonstrated stronger academic habits.
+###  Successfully placed students demonstrated stronger academic habits.
 
 Compared to students who were not placed, placed students:
 

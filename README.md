@@ -1,5 +1,18 @@
-#  Student Performance Analysis Using Python
+# Student Performance Analysis Using Python
 
+## Exploratory Data Analysis (EDA)
+
+Author: Adebiyi Faruq
+
+Date: 6/9/2026
+
+Tools:
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+  
 ## Project Overview
 
 This project explores the factors that influence students' academic performance using Python and Exploratory Data Analysis (EDA).
@@ -232,13 +245,6 @@ Through this project, I strengthened my ability to:
 - Translate business questions into data-driven insights
 - Present analytical findings in a professional manner
 
-
-
-##  Author
-
-**Adebiyi Faruq**
-
-Aspiring Data Scientist | Python Enthusiast | Data Analytics
 
 
 
